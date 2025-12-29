@@ -1,6 +1,6 @@
 # 🚗 Car Sales Management Dashboard (Excel)
 
-![Tool](https://img.shields.io/badge/Tool-Power bi-green)
+![Tool](https://img.shields.io/badge/Tool-Powerbi-green)
 ![Domain](https://img.shields.io/badge/Domain-Sales%20Analytics-purple)
 ![Project](https://img.shields.io/badge/Project-Completed-brightgreen)
 
